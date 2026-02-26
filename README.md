@@ -1,4 +1,4 @@
-# Hello, I'm Eshwar Vennam ✨
+# 👋 Hello, I'm Eshwar Vennam
 
 🎓 Academic Journey: Currently pursuing my Master's in Information Systems at CSULB and hold a Bachelor's in Computer Science and Engineering from CMRCET. <br/>
 📊 Data Professional: Experienced in SQL, Python (Pandas, NumPy), and R to clean, transform, and analyze complex datasets.  <br/>
